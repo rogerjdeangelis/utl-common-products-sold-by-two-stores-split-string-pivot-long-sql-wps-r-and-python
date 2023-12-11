@@ -10,8 +10,14 @@ Select products sold by both store1 and store2
         2 wps r sql
         3 wps python sql
         4 wps sql dynamic
-
-
+    github                                                                                                                  
+    https://tinyurl.com/spn3vscf                                                                                            
+    https://github.com/rogerjdeangelis/utl-common-products-sold-by-two-stores-split-string-pivot-long-sql-wps-r-and-python  
+                                                                                                                            
+    stackoverflow                                                                                                           
+    https://tinyurl.com/2evp47vx                                                                                            
+    https://stackoverflow.com/questions/20324372/splitting-a-single-column-name-into-two-forename-surname-in-sql            
+                                                                                                                
     Slightly related repos
     https://github.com/rogerjdeangelis/utl-pivot-multiple-columns-to-long-format-untranspose
     https://github.com/rogerjdeangelis/utl-transpose-fat-to-skinny-pivot-longer-in-sas-wps-r-pythonv
